@@ -1,0 +1,19 @@
+node_modules/
+*.log
+npm-debug.log*
+.DS_Store
+.env
+
+# Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Build artifacts
+dist/
+build/
